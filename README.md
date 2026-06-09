@@ -1,0 +1,1 @@
+# A-Parallel-Serial-Belief-Rule-Base-Model-for-Sensor-Data-Analysis
